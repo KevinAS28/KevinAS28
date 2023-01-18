@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[Read More](https://github.com/kmoroz/kmoroz)
+[Read More](https://github.com/KevinAS28/KevinAS28/blob/main/README_COMPLETE.md)
 
 </div>
 
