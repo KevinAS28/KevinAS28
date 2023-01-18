@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <!-- - [Fun facts](#fun-facts)
   - [License](#license)  -->
 
-<!-- ## Specific Skills -->
+## Specific Skills
   - Machine Learning (ML) Engineering - Proficient in developing ML architecture models, model training, fine-tuning, and model evaluation. 
 
   - Data Analysis - Experienced in analyzing big data with statistical analysis and programming to extract insights.
