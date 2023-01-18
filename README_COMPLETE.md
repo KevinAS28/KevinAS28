@@ -49,10 +49,5 @@ Here are some ideas to get you started:
 
   - Others: In non-industry practicals, I'm also handy with competitive programming, android app development, and desktop app development (GUI/CLI). I Have some experience with Robotic (Arduino) programming. I'm also capable of doing some network engineering with Mikrotik. There are other some miniscule hard-skills I have.
 
-<div align="center">
-
-[Read More](https://github.com/kmoroz/kmoroz)
-
-</div>
 
 <!-- ## About Me -->
