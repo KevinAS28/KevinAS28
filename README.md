@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hi, I'm Kevin A. Sastramiharja</h1>
 
 <div align="center">
-My initial contacts:
+Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kevinas28)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KevinAS28)
