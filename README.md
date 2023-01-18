@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 <h3 align="center">Data Scientist & ML/AI Engineer | Aspirant of AI research engineer and research scientist | Ex-Web backend developer </h3>
 
-### Contents:
-  - [Specific skills](#specific-skills)
+<!-- ### Contents: -->
+  <!-- - [Specific skills](#specific-skills) -->
   <!-- - [Other projects](#other-projects)   
   - [Tools](#tools) -->
   <!-- - [About me](#about-me) -->
   <!-- - [Fun facts](#fun-facts)
   - [License](#license)  -->
 
-## Specific Skills
+<!-- ## Specific Skills -->
   - Machine Learning (ML) Engineering - Proficient in developing ML architecture models, model training, fine-tuning, and model evaluation. 
 
   - Data Analysis - Experienced in analyzing big data with statistical analysis and programming to extract insights.
